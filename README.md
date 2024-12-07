@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/70/0c/47/700c470a674590a39654df6e13559bd9.jpg"  />
+<img align="right" height="120" src="https://i.pinimg.com/736x/7b/25/56/7b2556503cbd9035d51831afd44bf888.jpg"  />
 
 ###
 
@@ -53,5 +53,9 @@
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolassantana42&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img align="left" height="120" src="https://i.pinimg.com/736x/2a/d8/cf/2ad8cff3a37f38b783080b8b94a66f70.jpg"  />
 
 ###
