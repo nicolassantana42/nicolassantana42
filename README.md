@@ -1,4 +1,4 @@
-<p align="left">Olá, meu nome é Nicolas Santana, sou estudante de Ciência da Computação e estou em busca de um estágio na área de back-end. Tenho experiência com tecnologias como MongoDB, Hibernate, JPA, UML, Spring Boot, MySQL e JavaFX. Sou dedicado, apaixonado por programação e sempre buscando aprender novas habilidades para desenvolver soluções eficientes e inovadoras.</p>
+<p align="left">Olá, meu nome é Nicolas Santana, sou estudante de Ciência da Computação e estou em busca de um estágio na área de back-end. Tenho experiência com tecnologias como MongoDB, Hibernate, JPA, UML, Spring Boot, MySQL. Sou dedicado, apaixonado por programação e sempre buscando aprender novas habilidades para desenvolver soluções eficientes e inovadoras.</p>
 
 ###
 
