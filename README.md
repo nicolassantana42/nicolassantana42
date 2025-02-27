@@ -1,4 +1,4 @@
-<p align="left">Olá, meu nome é Nicolas Santana, sou estudante de Ciência da Computação e estou em busca de um estágio na área de back-end. Tenho experiência com tecnologias como MongoDB, Hibernate, JPA, UML, Spring Boot, MySQL. Sou dedicado, apaixonado por programação e sempre buscando aprender novas habilidades para desenvolver soluções eficientes e inovadoras.</p>
+<p align="left">Olá, meu nome é Nicolas Santana, sou estudante de Ciência da Computação e estou em busca de um estágio na área de Ciência de Dados. Tenho conhecimento em Python, SQL, Power BI e Machine Learning, além de experiência acadêmica e pessoal em análise de dados, visualização e modelagem preditiva.<br>Sou dedicado, curioso e estou sempre buscando aprender novas habilidades para transformar dados em insights valiosos. Meu objetivo é aplicar técnicas de análise e aprendizado de máquina para resolver problemas reais e desenvolver soluções eficientes e inovadoras.</p>
 
 ###
 
@@ -11,24 +11,16 @@
 
 ###
 
-<img align="right" height="120" src="https://i.pinimg.com/736x/7b/25/56/7b2556503cbd9035d51831afd44bf888.jpg"  />
-
-###
-
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
 </div>
 
 ###
